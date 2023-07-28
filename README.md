@@ -34,6 +34,6 @@ I'm always working on exciting projects to sharpen my skills and contribute to t
 -->
 ## Get in Touch
 
-I'm open to collaboration, learning from others, and helping wherever I can. If you have any interesting project ideas or just want to chat about technology, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hamdanarrosyid/) or [Twitter](https://twitter.com/hamdanarrosyid). You can also check out my other projects on [GitHub](https://github.com/hamdanarrosyid).
+I'm open to collaboration, learning from others, and helping wherever I can. If you have any interesting project ideas or just want to chat about technology, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hamdan-arosyid-52b5ba1a4/) or [Twitter](https://twitter.com/arosyid_hamdan). You can also check out my other projects on [GitHub](https://github.com/hamdanarrosyid).
 
 Let's learn and grow together! 😄🚀
