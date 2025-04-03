@@ -17,11 +17,8 @@ Welcome to my GitHub profile! I'm an enthusiastic individual with a relentless c
 I'm fascinated by a wide range of topics related to technology. Some of my key interests include:
 
 - 👩‍💻 Software Development: Exploring new programming languages, frameworks, and software design patterns.
-- 📱 Mobile App Development: Building awesome mobile applications for Android and iOS platforms.
 - 🌐 Web Development: Creating interactive and user-friendly websites and web applications.
 - 🤖 Artificial Intelligence: Leveraging AI and machine learning to solve real-world problems.
-- 🚀 Internet of Things (IoT): Exploring the intersection of technology and physical devices.
-- 📊 Data Science: Extracting insights from data and making data-driven decisions.
 
 <!--
 ## Current Projects
